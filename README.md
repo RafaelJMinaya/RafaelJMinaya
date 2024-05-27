@@ -1,6 +1,6 @@
 <h1>Hi! I'm Rafael <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🎖 I'm a [certified](https://www.datacamp.com/profile/rafaeljminaya1) data scientist who loves building machine learning applications in my free time.
+- 🎖 I'm a [certified](https://www.datacamp.com/certificate/DSA0014132008243) data scientist who loves building machine learning applications in my free time.
 - ✍ Studied **Mathematics** and **Linguistics** at New York University.
 - 🌱 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
 - ⚡ Currently working on personal data projects to further build my data portfolio.

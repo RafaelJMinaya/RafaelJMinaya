@@ -1,12 +1,12 @@
 <h1>Hi! I'm Rafael <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🎖 I'm a [certified](https://www.datacamp.com/certificate/DSA0014132008243) data scientist who loves building machine learning applications in my free time.
-- ✍ Studied **Mathematics** and **Linguistics** at New York University.
+- 🎖 I'm a certified Data Scientist in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
+- ✍ Studied **Mathematics** and **Linguistics** at New York University .
 - 🌱 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
-- ⚡ Currently working on personal data projects to further build my data portfolio.
-- 😄 In my personal time I love reading, gaming, watching films, and building PCs.
+- 📚 Currently studying and working on personal data projects to further build my data portfolio.
+- 🕹️ In my personal time I love gaming, reading, watching films, and building PCs.
 
-## Languages and Tools 💻:
+## Languages and Tools 🛠️:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,12 +22,14 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-## Find me on 👋:
+## Connect and Find Me On 💻:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelminaya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rafaeljminaya1@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaeljminaya)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/rafaeljminaya1)
 </br>
+(Click above for more)
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>

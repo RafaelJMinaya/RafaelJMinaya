@@ -1,9 +1,9 @@
 <h1>Hi! I'm Rafael <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🎖 I'm a certified Data Scientist in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
-- ✍ Studied **Mathematics** and **Linguistics** at New York University .
-- 🌱 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
-- 📚 Currently studying and working on personal data projects to further build my data portfolio.
+- 🎖️ I'm a certified Data Scientist in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
+- 📚 Studied **Mathematics** and **Linguistics** at New York University .
+- 👔 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
+- 🌱 Currently studying and working on personal data projects to further build my data portfolio.
 - 🕹️ In my personal time I love gaming, reading, watching films, and building PCs.
 
 ## Languages and Tools 🛠️:
@@ -24,7 +24,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
-## Connect and Find Me On 💻:
+## Connect and Find Me On 🌐:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelminaya)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rafaeljminaya1@gmail.com)

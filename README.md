@@ -4,7 +4,7 @@
 - 📚 Studied **Mathematics** and **Linguistics** at New York University .
 - 👔 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
 - 🌱 Currently studying and working on personal data projects to further build my data portfolio.
-- 🕹️ In my personal time I love gaming, reading, watching films, and building PCs.
+- 🕹️ I'm passionate about gaming, fashion, films, and PC building!
 
 ## Languages and Tools 🛠️:
 

@@ -1,6 +1,6 @@
 <h1>Hi! I'm Rafael <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🎖️ I'm a certified Data Scientist in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
+- 🎖️ I'm a certified data professional in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
 - 📚 Studied **Mathematics** and **Linguistics** at New York University .
 - 👔 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
 - 🌱 Currently studying and working on personal data projects to further build my data portfolio.
@@ -24,12 +24,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-## Connect and Find Me On 🌐:
+## Click Below and Connect With Me 🌐:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelminaya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rafaeljminaya1@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaeljminaya)
 [![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)](https://www.datacamp.com/profile/rafaeljminaya1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rafaeljminaya1@gmail.com)
 </br>
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>

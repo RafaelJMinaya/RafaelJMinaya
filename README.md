@@ -1,10 +1,11 @@
 <h1>Hi! I'm Rafael <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 🎖️ I'm a certified data professional in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
-- 📚 Studied **Mathematics** and **Linguistics** at New York University .
+- 📚 I hold a Bachelor's in **Mathematics** and a minor in **Linguistics** from *New York University*.
+- 🎖️ I'm a certified professional in both [Python](https://www.datacamp.com/certificate/DSA0014132008243) and [SQL](https://www.datacamp.com/certificate/SQA0017098130051) who loves building machine learning applications in my free time.
 - 👔 Looking for full-time or part-time experience in the fields of **Data Science**, **Data Analytics**, or **Data Engineering**.
 - 🌱 Currently studying and working on personal data projects to further build my data portfolio.
-- 🕹️ I'm passionate about sports, gaming, fashion, and films!
+- 🕹️ I'm passionate about and love talking sports, gaming, fashion, and films!
+- 📝 My [Resume](https://docs.google.com/document/d/1AjDFiaEQxzYX1d498WmM0UYllYiDSVBczEcUSXUPsys/edit?usp=sharing)
 
 ## Languages and Tools 🛠️:
 
@@ -24,7 +25,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-## Click Below and Connect With Me 🌐:
+## Connect With Me 📫:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelminaya)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rafaeljminaya)
